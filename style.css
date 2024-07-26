@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+    color:white;
+  } 
+  
+  h1{
+    color:white;
+    text-align:center;
+    font-family:Galindo;
+    margin-top: 50px;
+    
+}
+  
+#img1{
+    width:150px;
+    position:absolute;
+    top:20px; left:40px;
+  }
+#img2{
+    width:900px;
+    position:absolute;
+    top:100px;
+}
+#img3{
+    width:200px;
+    position:absolute;
+    top:600px; left:180px;
+}
+#img4{
+    width:200px;
+    
+  
